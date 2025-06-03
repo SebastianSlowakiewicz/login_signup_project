@@ -97,3 +97,10 @@
     background: #eaeaea;
     color: #676767;
 }
+
+.message {
+        margin-top: 5px;
+        text-align: center;
+        font-weight: bold;
+        color: #0e4c7b;
+    }    
